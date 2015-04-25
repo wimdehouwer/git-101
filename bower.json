@@ -1,0 +1,11 @@
+{
+  "name": "git101",
+  "version": "0.0.0",
+  "authors": [
+    "Dries De Peuter <dries@nousefreak.be>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
